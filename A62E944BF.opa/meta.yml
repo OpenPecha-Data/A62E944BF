@@ -1,0 +1,15 @@
+id: A62E944BF
+title: 'MSV 6,05: Ṣoḍaśaka'
+type: translation
+pechas:
+- I416A0645
+- I245C42B8
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:15:41.449326
+  last_modified_at: 2023-02-10 00:15:41.449347
+alignment_to_base:
+  I416A0645/D00C: 565D
+  I245C42B8/486F: 565D
